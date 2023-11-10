@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @murilocaetanodalmolim
-- 👀 I'm interested in football, cooking, data, database management, devops, linux, docker, kubernetes
+- 👀 I'm interested in football, cooking, data, database management, devops, linux, docker, kubernetes, cloud
 - 🌱 I’m currently learning kubernetes, GCP, DevOps
 - 📫 How to reach me murilo_caetano@hotmail.com and https://murilo.eti.br/
 <!--- - 💞️ I’m looking to collaborate on ... --->
